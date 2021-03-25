@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Savian Elam\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Savian Elam\\.nuget\\packages"
+    ]
+  }
+}
